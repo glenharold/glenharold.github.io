@@ -10,8 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 '<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 
-
-'<form action="mailto:glen.harold@entrustdatacard.com">
+</pre>
+<form action="mailto:glen.harold@entrustdatacard.com">
 <center>Project Request Form</center>
 <br/>
 
