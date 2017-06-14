@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 title: Project Request Web-Form
-
-<!DOCTYPE html>
+Body: <!DOCTYPE html>
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
 <!--  If necessary, please modify the charset parameter to specify the        -->
@@ -98,3 +97,4 @@ Desired Completion Date:<span class="dateInput dateOnlyInput"><input  id="00NS00
 </form>
 
 </html>
+
