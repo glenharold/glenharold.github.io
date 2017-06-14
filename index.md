@@ -8,14 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 '''
 <!DOCTYPE html>
 
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+'<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 
 
-<form action="https://myentrust--DevRevak.cs1.my.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST">
-
-<input type=hidden name="orgid" value="00DS0000003EF5F">
-<input type=hidden name="retURL" value="http://">
-
+'<form action="mailto:glen.harold@entrustdatacard.com">
 <center>Project Request Form</center>
 <br/>
 
