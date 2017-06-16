@@ -6,12 +6,36 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Web Form
 '''
+<?php
+if($_POST["message"]) {
+    mail("glen.harold@entrustdatacard", "Form to email message", $_POST["message"], "From: an@email.address");
+}
+?>
 <!DOCTYPE html>
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+<!--  If necessary, please modify the charset parameter to specify the        -->
+<!--  character set of your HTML page.                                        -->
+<!--  ----------------------------------------------------------------------  -->
 
-'<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 
-</pre>
-<form action="mailto:glen.harold@entrustdatacard.com">
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <FORM> element to your page.             -->
+<!--  ----------------------------------------------------------------------  -->
+
+<form method="POST" action="form.php>
+
+<input type=hidden name="orgid" value="00DS0000003EF5F">
+<input type=hidden name="retURL" value="http://">
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+<!--  these lines if you wish to test in debug mode.                          -->
+<!--  <input type="hidden" name="debug" value=1>                              -->
+<!--  <input type="hidden" name="debugEmail"                                  -->
+<!--  value="glen.harold@entrustdatacard.com">                                -->
+<!--  ----------------------------------------------------------------------  -->
 <center>Project Request Form</center>
 <br/>
 
