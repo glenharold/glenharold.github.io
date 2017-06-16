@@ -4,8 +4,7 @@ You can use the the following form to request a new project. Please fill out the
 
 
 
-
-<center>###Project Request Form</center>
+###Project Request Form
 <br/>
 
 Business Project Owner:<textarea  id="00NS0000001bqPA" name="00NS0000001bqPA" type="text" wrap="soft"></textarea><br>
