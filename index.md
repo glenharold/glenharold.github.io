@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/glenharold/glenharold.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the the following form to request a new project. Please fill out the form to the best of your ability. A confirmation email will be sent.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Web Form
 
