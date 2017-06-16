@@ -101,10 +101,7 @@ Desired Completion Date:<span class="dateInput dateOnlyInput"><input  id="00NS00
 
 <input type="submit" name="submit">
 
-</form>
 
-</html>
-'''
 
 
 **Bold** and _Italic_ and `Code` text
